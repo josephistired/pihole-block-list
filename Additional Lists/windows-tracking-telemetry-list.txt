@@ -1,6 +1,6 @@
 # Title: josephistired/windows-tracking-telemetry-list
 #
-# A list of domains used by microsoft to track & collect diagnostic data on your windows machine
+# A list of domains used by microsoft to track & collect diagnostic data on your windows machine.
 # 
 # Count: 191 Domains
 # Last Updated: 10:18:45 pm EDT Tuesday, September 27, 2022
