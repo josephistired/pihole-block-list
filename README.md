@@ -7,9 +7,8 @@ A list of domains for [Pi-hole](https://pi-hole.net) using sources from other li
 ## Lists
 
 | List                            | Description                                                                                     |                                                               Raw hosts                                                               |
-| ------------------------------- | ----------------------------------------------------------------------------------------------- | :-----------------------------------------------------------------------------------------------------------------------------------: |
-| Master List                     | A list of domains used for advertistments & also some tracking.                                 |                    [List](https://raw.githubusercontent.com/josephistired/pihole-block-list/main/master-list.txt)                     |
-| Porn List                       | A list of domains of porn sites.                                                                |                                                              Coming Soon                                                              |
+| ------------------------------- | ----------------------------------------------------------------------------------------------- | :-----------------------------------------------------------------------------------------------------------------------------------: | --- |
+| Master List                     | A list of domains used for advertistments & also some tracking.                                 |                    [List](https://raw.githubusercontent.com/josephistired/pihole-block-list/main/master-list.txt)                     |     |
 | Social Media List               | A list of domains of social media sites.                                                        |        [List](https://raw.githubusercontent.com/josephistired/pihole-block-list/main/Additional%20Lists/social-media-list.txt)        |
 | Windows Tracking/Telemetry List | A list of domains used by microsoft to track & collect diagnostic data on your windows machine. | [List](https://raw.githubusercontent.com/josephistired/pihole-block-list/main/Additional%20Lists/windows-tracking-telemetry-list.txt) |
 
